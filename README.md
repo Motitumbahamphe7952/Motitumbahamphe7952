@@ -1,4 +1,4 @@
-### Hi there 👋...lets learn..
+### Hi there 👋...lets learn
 
 <!--
 **Motitumbahamphe7952/Motitumbahamphe7952** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
