@@ -1,5 +1,5 @@
 # Hi there, I'm Motitumbahamphe7952! 👋
-(My username’s a boss-level puzzle — but you can just call me Nikhil Limbu 😜)
+(My username’s a boss-level puzzle — feel free to just call me Nikhil Limbu 😄)
 
 Welcome to my GitHub profile!
 
