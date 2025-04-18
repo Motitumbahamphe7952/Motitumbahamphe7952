@@ -10,7 +10,7 @@ Welcome to my GitHub profile!
 
 ## 🛠️ Technologies & Tools
 - **Languages:** TypeScript, JavaScript, HTML/CSS, C, C++
-- **Frameworks/Libraries:** React, Node.js, Express, Swagger, ShadCN, MaterialUI
+- **Frameworks/Libraries:** React, Node.js, Express, Swagger, ShadCN, MaterialUI, NextJS
 - **Tools:** Git, Github, Postman, MongoDb, VS Code
 - **Interests:** Machine Learning, Web Development, Game Development, Graphic Design
 
