@@ -1,4 +1,4 @@
-# Hi there, I'm Motitumbahamphe7952! 👋
+# Hi there, I'm Motitumbahamphe! 👋
 (My username’s a boss-level puzzle — feel free to just call me Nikhil Limbu 😄)
 
 Welcome to my GitHub profile!
