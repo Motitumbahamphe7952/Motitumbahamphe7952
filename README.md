@@ -15,7 +15,7 @@ Welcome to my GitHub profile!
 - **Interests:** Machine Learning, Web Development, Game Development, Graphic Design
 
 ## 📈 GitHub Stats
-![Metrics](https://metrics.lecoq.io/YOUR_USERNAME?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0)
+![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=radical)
 
 ## 🌱 Currently Learning
 - Advanced React patterns & Redux Architecture
