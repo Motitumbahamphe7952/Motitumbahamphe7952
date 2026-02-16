@@ -15,8 +15,7 @@ Welcome to my GitHub profile!
 - **Interests:** Machine Learning, Web Development, Game Development, Graphic Design
 
 ## 📈 GitHub Stats
-![Motitumbahamphe7952's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Motitumbahamphe7952&show_icons=true&theme=radical)
-
+![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=radical)
 ## 🌱 Currently Learning
 - Advanced React patterns & Redux Architecture
 - DevOps and CI/CD basics
