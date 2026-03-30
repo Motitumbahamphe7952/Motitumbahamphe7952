@@ -15,7 +15,7 @@ Welcome to my GitHub profile!
 - **Interests:** Machine Learning, Web Development, Game Development, Graphic Design
 
 ## 📈 GitHub Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=motitumbahamphe7952&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=motitumbahamphe7952&theme=oceanic-next&background=45%2C031B3D%2C090A0A)](https://git.io/streak-stats)
 
 ## 🌱 Currently Learning
 - Advanced React patterns & Redux Architecture
