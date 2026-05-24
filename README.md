@@ -15,9 +15,12 @@ Welcome to my GitHub profile!
 - **Interests:** Machine Learning, Web Development, Game Development, Graphic Design, Linux, Rust
 
 ## 📈 GitHub Stats
+![](https://github-profile-trophy.vercel.app/?username=motitumbahamphe7952&theme=aura&no-frame=false&no-bg=false&margin-w=4)
 ![Overview](https://github.com/Motitumbahamphe7952/github-stats/blob/generated/overview.svg#gh-dark-mode-only)
 ![Languages](https://github.com/Motitumbahamphe7952/github-stats/blob/generated/languages.svg#gh-dark-mode-only)
 [![GitHub Streak](https://streak-stats.demolab.com?user=motitumbahamphe7952&theme=oceanic-next&background=45%2C031B3D%2C090A0A)](https://git.io/streak-stats)
+
+
 
 ## 🌱 Currently Learning
 - Advanced React patterns & Redux Architecture
