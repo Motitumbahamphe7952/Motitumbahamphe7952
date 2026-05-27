@@ -1,5 +1,4 @@
-# Hi there, I'm Moti Tumbahamphe! 👋
-(My username’s a boss-level puzzle — feel free to just call me Nikhil Limbu 😄)
+# Hi there, I'm Nikhil Limbu! 👋
 
 Welcome to my GitHub profile!
 
