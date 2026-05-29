@@ -28,7 +28,6 @@ Welcome to my GitHub profile!
 - OAuth & database connectivity
 
 ## 📫 Let's Connect!
-- **GitHub:** [Motitumbahamphe7952](https://github.com/Motitumbahamphe7952)
 - **Email:** [nikhillimbu918@gmail.com](mailto:nikhillimbu918@gmail.com)
 - **LinkedIn:** [NikhilLimbu](https://www.linkedin.com/in/nikhil-limbu-442209259/)
 ---
