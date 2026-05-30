@@ -24,7 +24,8 @@ Welcome to my GitHub profile!
 [![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=NinjaXWarrior&bg_color=0d1117&color=9ee0ff&line=6699cc&point=99c794&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <!-- ![](https://github-profile-trophy.vercel.app/?username=NinjaXWarrior&theme=aura&no-frame=false&no-bg=false&margin-w=4) -->
 
-
+## 🎧 Spotify Playlist
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=vbldh545tmh1jz87o1erh5p8s&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false&mode=dark)](https://github.com/kittinan/spotify-github-profile)
 
 ## 🌱 Currently Learning
 - Advanced React patterns & Redux Architecture
