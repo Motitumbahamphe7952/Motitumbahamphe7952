@@ -14,7 +14,7 @@ Welcome to my GitHub profile!
 - **Tools:** Git, Github, Postman, MongoDb, VS Code, Obsidian, NeoVim
 - **Interests:** Machine Learning, Web Development, Game Development, Graphic Design, Linux, Rust
   
-## 📈 GitHub Streaks
+## 🔥 GitHub Streaks
 [![GitHub Streak](https://streak-stats.demolab.com?user=NinjaXWarrior&theme=oceanic-next&background=45%2C031B3D%2C090A0A)](https://git.io/streak-stats) 
 
 ## 📈 GitHub Stats
