@@ -9,9 +9,9 @@ Welcome to my GitHub profile!
 - 🎯 My goal is to continuously grow as a developer and make meaningful contributions to the tech community.
 
 ## 🛠️ Technologies & Tools
-- **Languages:** TypeScript, JavaScript, HTML/CSS, C, C++
+- **Languages:** Python, Rust, TypeScript, JavaScript, HTML/CSS, C, C++
 - **Frameworks/Libraries:** React, Node.js, Express, Swagger, ShadCN UI, Material UI, NextJS
-- **Tools:** Git, Github, Postman, MongoDb, VS Code, Obsidian, NeoVim
+- **Tools:** Git, Github, Postman, MongoDb, Docker, VS Code, Obsidian, NeoVim
 - **Interests:** Machine Learning, Web Development, Game Development, Graphic Design, Linux, Rust
   
 ## 🔥 GitHub Streaks
