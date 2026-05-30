@@ -1,5 +1,6 @@
+<!-- Profile Views -->
+![](https://komarev.com/ghpvc/?username=NinjaXWarrior&color=blue)
 # Hi there, I'm Nikhil Limbu! 👋
-
 Welcome to my GitHub profile!
 
 ## 🚀 About Me
