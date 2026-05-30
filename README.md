@@ -19,6 +19,7 @@ Welcome to my GitHub profile!
 ![Overview](https://github.com/NinjaXWarrior/github-stats/blob/generated/overview.svg#gh-dark-mode-only)
 ![Languages](https://github.com/NinjaXWarrior/github-stats/blob/generated/languages.svg#gh-dark-mode-only)
 [![GitHub Streak](https://streak-stats.demolab.com?user=NinjaXWarrior&theme=oceanic-next&background=45%2C031B3D%2C090A0A)](https://git.io/streak-stats)
+[![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=NinjaXWarrior&bg_color=0d1117&color=9ee0ff&line=6699cc&point=99c794&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
