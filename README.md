@@ -15,7 +15,7 @@ Welcome to my GitHub profile!
 - **Interests:** Machine Learning, Web Development, Game Development, Graphic Design, Linux, Rust
   
 ## 🔥 GitHub Streaks
-[![GitHub Streak](https://streak-stats.demolab.com?user=NinjaXWarrior&theme=oceanic-next&background=45%2C031B3D%2C090A0A)](https://git.io/streak-stats) 
+[![GitHub Streak](https://streak-stats.demolab.com?user=NinjaXWarrior&theme=oceanic-next&background=45%2C031B3D%2C090A0A)]
 
 ## 📈 GitHub Stats
 ![Languages](https://github.com/NinjaXWarrior/github-stats/blob/generated/languages.svg#gh-dark-mode-only)
