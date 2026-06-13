@@ -15,7 +15,7 @@ I daily-drive **Ubuntu** to manage my development workflow, which has sparked a 
 
 ---
 
-## 🛠️ Technologies & Tools
+## 💻 Technologies & Tools
 * **Core Stack:** TypeScript, JavaScript, HTML/CSS, React, Next.js, Node.js, Express
 * **Currently Exploring/Learning:** Rust, Python, C, C++
 * **UI & Design:** ShadCN UI, Material UI, Graphic Design
@@ -24,7 +24,7 @@ I daily-drive **Ubuntu** to manage my development workflow, which has sparked a 
 
 ---
 
-## 🛠️ What I'm Working On / Learning
+## 🌌 What I'm Working On / Learning
 * 🏗️ Mastering **Advanced React Patterns** and next-gen frontend architectures.
 * 🚀 Learning **DevOps** pipelines, GitHub Actions, and containerization basics.
 * 🧠 Getting hands-on with **Python** & **Rust** fundamentals through small projects.
