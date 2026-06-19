@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=NinjaXWarrior&color=blue)
 
 # Hi there, I'm Nikhil Limbu! 👋
-### 💻 Full-Stack Developer | Linux Explorer | NeoVim Tinkerer
+### 💻 Full-Stack Developer | Linux Enthusiast
 
 ## ⚡ TL;DR
 > I live and breathe the **JavaScript/TypeScript** ecosystem, daily-driving **Ubuntu** while actively falling down the **NixOS** and **NeoVim** rabbit holes. When I'm not optimizing Next.js applications or refactoring messy codebases, I'm trying to make Rust compile without yelling at me.
