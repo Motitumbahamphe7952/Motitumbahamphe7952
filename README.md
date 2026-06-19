@@ -1,27 +1,28 @@
 ![](https://komarev.com/ghpvc/?username=NinjaXWarrior&color=blue)
 
 # Hi there, I'm Nikhil Limbu! 👋
-Welcome to my GitHub profile!
+### 💻 Full-Stack Developer | Linux Explorer | NeoVim Tinkerer
 
-## 🚀 About Me
-I’m a full-stack developer focused on building clean, efficient web applications. My day-to-day development happens firmly within the **JavaScript & TypeScript** ecosystem, building scalable apps using modern web frameworks. 
+## ⚡ TL;DR
+> I live and breathe the **JavaScript/TypeScript** ecosystem, daily-driving **Ubuntu** while actively falling down the **NixOS** and **NeoVim** rabbit holes. When I'm not optimizing Next.js applications or refactoring messy codebases, I'm trying to make Rust compile without yelling at me.
 
-I daily-drive **Ubuntu** to manage my development workflow, which has sparked a massive interest in exploring deeper Linux concepts, system-level customization, and alternative tools.
-
-* 🎯 **Current Focus:** Delivering robust full-stack applications with React/Next.js while sharpening my backend and DevOps knowledge.
-* 🐧 **Linux Journey:** Comfortable running on **Ubuntu**, and currently beginning to venture into the world of **NixOS** and declarative system configuration to see how far the rabbit hole goes.
-* 🦀 **Expanding Horizons:** Actively picking up **Rust** for performance/safety concepts and **Python** to explore scripting and data automation alongside my core JS/TS stack.
-* 👾 **Fun Fact:** When I'm not building web services or messing around in the terminal, I'm experimenting with NeoVim configurations or reading up on software architecture.
+*   🎯 **Current Focus:** Building production-grade, highly scalable apps with React 19 / Next.js 15.
+*   ❄️ **Linux & DevOps:** Deeply fascinated by declarative setups (NixOS) and containerization (Docker).
+*   🦀 **Expanding Horizons:** Writing scripts in Python and figuring out memory safety in Rust.
 
 ---
 
-## 💻 Technologies & Tools
-* **Core Stack:** TypeScript, JavaScript, HTML/CSS, React, Next.js, Node.js, Express
-* **Currently Exploring/Learning:** Rust, Python, C, C++
-* **UI & Design:** ShadCN UI, Material UI, Graphic Design
-* **Tools & Runtimes:** Bun, pnpm, Docker, Git, GitHub, Postman, MongoDB
-* **Environment:** Ubuntu Linux, NeoVim, VS Code, Obsidian
+## 🛠️ The Toolkit
 
+| Category | Technologies |
+| :--- | :--- |
+| **Frontend Core** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) |
+| **Backend & Databases** | ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white) |
+| **Runtimes & Tools** | ![Bun](https://img.shields.io/badge/Bun-000000?style=flat-square&logo=bun&logoColor=white) ![pnpm](https://img.shields.io/badge/pnpm-F69220?style=flat-square&logo=pnpm&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
+| **Environment** | ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white) ![NeoVim](https://img.shields.io/badge/NeoVim-5741D9?style=flat-square&logo=neovim&logoColor=white) ![Obsidian](https://img.shields.io/badge/Obsidian-7C4DFF?style=flat-square&logo=obsidian&logoColor=white) |
+| **Learning/Cooking** | ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![NixOS](https://img.shields.io/badge/NixOS-5277C3?style=flat-square&logo=nixos&logoColor=white) |
+
+---
 ---
 
 ## 🌌 What I'm Working On / Learning
