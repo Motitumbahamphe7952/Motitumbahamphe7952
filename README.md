@@ -23,7 +23,6 @@
 | **Learning/Cooking** | ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![NixOS](https://img.shields.io/badge/NixOS-5277C3?style=flat-square&logo=nixos&logoColor=white) |
 
 ---
----
 
 ## 🌌 What I'm Working On / Learning
 * 🏗️ Mastering **Advanced React Patterns** and next-gen frontend architectures.
