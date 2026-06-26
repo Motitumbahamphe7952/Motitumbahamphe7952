@@ -49,7 +49,7 @@
 ---
 
 ## 📫 Let's Connect!
-* **Portfolio:** [NinjaXWarrior](https://motitumbahample.com.np)
+* **Portfolio:** [NinjaXWarrior](https://motitumbahamphe.com.np/)
 * **Email:** [nikhillimbu918@gmail.com](mailto:nikhillimbu918@gmail.com)
 * **LinkedIn:** [Nikhil Limbu](https://www.linkedin.com/in/nikhil-limbu-442209259/)
 
