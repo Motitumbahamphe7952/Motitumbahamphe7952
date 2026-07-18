@@ -1,5 +1,12 @@
 <!-- HEADER BANNER -->
-<img src="assets/dithered-image.png" alt="Nikhil's Profile Banner" style="width: 100%; max-width: 800px; height: auto; border-radius: 8px; margin-bottom: 10px;">
+
+<!-- MEDIA GALLERY -->
+<p align="center">
+  <img src="assets/flower.gif" alt="Demo GIF" width="180" height="240" style="border-radius: 8px; object-fit: cover;" />
+  <img src="assets/img1.jpg" alt="Profile" width="180" height="240" style="border-radius: 8px; object-fit: cover;" />
+  <img src="assets/dither.gif" alt="Banner" width="180" height="240" style="border-radius: 8px; object-fit: cover;" />
+  <img src="assets/img2.jpg" alt="Banner Preview" width="180" height="240" style="border-radius: 8px; object-fit: cover;" />
+</p>
 
 <!-- VISITOR COUNTER & BADGES -->
 <p align="left">
