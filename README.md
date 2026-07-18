@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=NinjaXWarrior&color=blue)
 
 # Hi there, I'm Nikhil Limbu! 👋
-### 💻 Full-Stack Developer | Linux Enthusiast
+### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0A93B3&width=435&lines=Full-Stack+Web+Developer+%F0%9F%92%BB;React+%7C+TypeScript+%7C+Rust+%7C+Python+;Linux+Enthusiast+%7C+Ubuntu+%7C+Nix+)](https://git.io/typing-svg)
 
 ## ⚡ TL;DR
 > I live and breathe the **JavaScript/TypeScript** ecosystem, daily-driving **Ubuntu** while actively falling down the **NixOS** and **NeoVim** rabbit holes. When I'm not optimizing Next.js applications or refactoring messy codebases, I'm trying to make Rust compile without yelling at me.
