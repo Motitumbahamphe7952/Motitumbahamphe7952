@@ -1,5 +1,5 @@
 <!-- HEADER BANNER -->
-<img src="assets/profile.png" alt="Nikhil's Profile Banner" style="width: 100%; max-width: 800px; height: auto; border-radius: 8px; margin-bottom: 10px;">
+<img src="assets/dithered-image.png" alt="Nikhil's Profile Banner" style="width: 100%; max-width: 800px; height: auto; border-radius: 8px; margin-bottom: 10px;">
 
 <!-- VISITOR COUNTER & BADGES -->
 <p align="left">
