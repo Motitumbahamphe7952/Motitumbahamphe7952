@@ -10,7 +10,7 @@
       <img src="assets/img1.jpg" alt="Profile" width="180" />
     </td>
     <td align="center" width="180">
-      <img src="assets/img2.jpg" alt="Banner Preview" width="180" />
+      <img src="assets/thinking.gif" alt="Banner Preview" width="180" />
     </td>
     <td align="center" width="180">
       <img src="assets/dither.gif" alt="Banner" width="180" />
