@@ -19,16 +19,10 @@
 </table>
 
 <!-- VISITOR COUNTER & BADGES -->
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=NinjaXWarrior&color=0A93B3&style=flat-square" alt="visitor counter" />
-</p>
-
 # Hi there, I'm Nikhil Limbu! 👋
 
 <p align="left">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0A93B3&width=500&lines=Full-Stack+Web+Developer+%F0%9F%92%BB;React+%7C+TypeScript+%7C+Node.js;Linux+Enthusiast+%7C+Ubuntu+%7C+Nix+%E2%9A%99%EF%B8%8F" alt="Typing SVG" />
-  </a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&width=435&lines=Full+Stack+Web+Developer;Linux+%7C+Ubuntu+%7C+Nix+%7C+Arch;React+%7C+TS+%7C+Rust+%7C+Python" alt="Typing SVG" /></a>
 </p>
 
 > I live and breathe the **JavaScript/TypeScript** ecosystem, daily-driving **Ubuntu** while actively falling down the **NixOS** and **NeoVim** rabbit holes. When I'm not optimizing Next.js applications or containerizing services, I'm exploring memory safety in Rust.
