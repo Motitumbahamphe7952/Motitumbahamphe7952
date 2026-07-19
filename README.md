@@ -1,12 +1,22 @@
 <!-- HEADER BANNER -->
 
 <!-- MEDIA GALLERY -->
-<p align="center">
-  <img src="assets/flower.gif" alt="Demo GIF" width="180" height="240" style="border-radius: 8px; object-fit: cover;" />
-  <img src="assets/img1.jpg" alt="Profile" width="180" height="240" style="border-radius: 8px; object-fit: cover;" />
-  <img src="assets/img2.jpg" alt="Banner Preview" width="180" height="240" style="border-radius: 8px; object-fit: cover;" />
-  <img src="assets/dither.gif" alt="Banner" width="180" height="240" style="border-radius: 8px; object-fit: cover;" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="180">
+      <img src="assets/flower.gif" alt="Demo GIF" width="180" />
+    </td>
+    <td align="center" width="180">
+      <img src="assets/img1.jpg" alt="Profile" width="180" />
+    </td>
+    <td align="center" width="180">
+      <img src="assets/img2.jpg" alt="Banner Preview" width="180" />
+    </td>
+    <td align="center" width="180">
+      <img src="assets/dither.gif" alt="Banner" width="180" />
+    </td>
+  </tr>
+</table>
 
 <!-- VISITOR COUNTER & BADGES -->
 <p align="left">
